@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- [MovablePositioned](https://github.com/matsuob/movable_widget/blob/master/lib/movable_widget.dart) is released.
