@@ -1,5 +1,6 @@
 # movable_widget
 
+This is a Flutter widget.  
 This provides movable widget by dragging.
 
 ## Getting Started
