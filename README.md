@@ -1,4 +1,4 @@
-# movable_widget
+# movable_widget(Beta release)
 
 This is a Flutter package.  
 This provides movable widget by dragging.
