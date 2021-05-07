@@ -12,7 +12,7 @@ dependencies:
   movable_widget:
     git:
       url: git@github.com:matsuob/movable_widget.git
-      ref: 0.0.1
+      ref: master
 ```
 
 ### 2. Run flutter pub get in the terminal.
