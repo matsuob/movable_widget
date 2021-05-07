@@ -1,6 +1,6 @@
 # movable_widget
 
-This is a Flutter widget.  
+This is a Flutter package.  
 This provides movable widget by dragging.
 
 ## Getting Started
